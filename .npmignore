@@ -1,0 +1,6 @@
+# .npmignore
+.git
+node_modules
+src
+test
+dist/*.map
